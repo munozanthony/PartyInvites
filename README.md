@@ -1,4 +1,4 @@
 # PartyInvites
 ## Lab7A
 
-###Create MVC Application
+Create MVC Application
